@@ -2,7 +2,7 @@
 
 Site institucional da **FR Modas Masculino**, loja de moda masculina, camisas de time e acessórios em São Mateus, São Paulo.
 
-- **Endereço:** Av. Mateo Bei, 2901 - Box 86,87,88 – Cidade São Mateus, São Paulo – SP, CEP 03949-012
+- **Endereço:** Av. Mateo Bei, 3118 - Box 86,87,88 – Cidade São Mateus, São Paulo – SP, CEP 03949-012
 - **WhatsApp:** (11) 95793-5460
 - **Horário:** Aberto até as 19h
 
