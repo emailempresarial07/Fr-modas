@@ -1,9 +1,9 @@
-# Fr Modas e Acessórios — Site oficial
+# FR Modas Masculino — Site oficial
 
-Site institucional da **Fr Modas e Acessórios**, loja de moda masculina, camisas de time e acessórios em São Mateus, São Paulo.
+Site institucional da **FR Modas Masculino**, loja de moda masculina, camisas de time e acessórios em São Mateus, São Paulo.
 
-- **Endereço:** Av. Mateo Bei, 2729 – São Mateus, São Paulo – SP, CEP 03949-012
-- **WhatsApp:** (11) 95465-6337
+- **Endereço:** Av. Mateo Bei, 2901 - Box 86,87,88 – Cidade São Mateus, São Paulo – SP, CEP 03949-012
+- **WhatsApp:** (11) 95793-5460
 - **Horário:** Aberto até as 19h
 
 ## Estrutura
