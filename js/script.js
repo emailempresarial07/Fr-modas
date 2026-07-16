@@ -1,9 +1,9 @@
 /* ============================================================
-   Fr Modas e Acessórios — Script principal
+   FR Modas Masculino — Script principal
    Menu, animações, vitrine, carrossel, abas e WhatsApp
    ============================================================ */
 
-const WHATS_NUMERO = '5511954656337';
+const WHATS_NUMERO = '5511957935460';
 
 function linkWhats(mensagem) {
   return `https://wa.me/${WHATS_NUMERO}?text=${encodeURIComponent(mensagem)}`;
@@ -11,7 +11,7 @@ function linkWhats(mensagem) {
 
 /* ---------- Botões estáticos de WhatsApp ---------- */
 document.querySelectorAll('[data-whats]').forEach((el) => {
-  const msg = el.dataset.msg || 'Olá! Vim pelo site da Fr Modas e Acessórios.';
+  const msg = el.dataset.msg || 'Olá! Vim pelo site da FR Modas Masculino.';
   el.setAttribute('href', linkWhats(msg));
   el.setAttribute('target', '_blank');
   el.setAttribute('rel', 'noopener');
@@ -177,7 +177,7 @@ form.addEventListener('submit', (e) => {
   e.preventDefault();
   const dados = new FormData(form);
   const msg = [
-    'Olá! Vim pelo site da Fr Modas e Acessórios.',
+    'Olá! Vim pelo site da FR Modas Masculino.',
     `*Nome:* ${dados.get('nome')}`,
     `*Telefone:* ${dados.get('telefone')}`,
     `*Assunto:* ${dados.get('assunto')}`,

@@ -1,5 +1,5 @@
 /* ============================================================
-   Fr Modas e Acessórios — Catálogo de produtos
+   FR Modas Masculino — Catálogo de produtos
    ------------------------------------------------------------
    PARA ATUALIZAR O SITE: basta editar as listas abaixo.
    Cada produto tem: nome, marca, preço, tamanhos, arte e selo.
